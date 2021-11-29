@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Kivy Launcher
+title = Kivy Launcher For Pygame
 
 # (str) Package name
 package.name = launcher
